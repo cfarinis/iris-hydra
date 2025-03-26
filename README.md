@@ -37,6 +37,8 @@ are enforced for all pull requests by relevant GitHub actions.
 
 To format locally prior to committing run:
 
+This is a test This is a test This is a test This is a test This is a test This is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a test
+
 ```shell
 make format
 ```
