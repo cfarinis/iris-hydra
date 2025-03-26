@@ -41,8 +41,10 @@ To format locally prior to committing run:
 make format
 ```
 
-# License
+## License
 
 Since Iris-Hydra is a fork of Hydra, it is licensed under same license, Apache
-2.0. For new files, the license header should be added as per the
+2.0.
+
+**Important:** For new files, the license header should be added as per the
 SPDX-License-Identifier tag at the top of this README file.
